@@ -2,6 +2,6 @@
 
 Here are the talks I made during my missions. 
 
-Feel free to download ;).
+## Qualcomm life - Capsule Tech
 
-Mac.
+* [BDD](https://onedrive.live.com/?authkey=%21ANBq4CtKZ5Ks-Fs&cid=AA6D90A8577CF069&id=AA6D90A8577CF069%21103950&parId=AA6D90A8577CF069%21103949&action=locate)
